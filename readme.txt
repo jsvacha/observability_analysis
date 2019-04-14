@@ -1,14 +1,14 @@
---------------------------------------------------------
+------------------------------------------------------------------------------------------
 Instructions: 
 
-Please run this notebook in Mathematica. 
-From that program, the file will be readable. 
+Please run these notebooks in Mathematica. 
+From that program, the files will be readable. 
 
-Don't try to read the file in a text editor. 
+Don't try to read the files in a text editor. 
 
 Lines followed by semicolons are visually suppressed. 
-To see the output of that line, remove the semicolon. 
---------------------------------------------------------
+To see the output of a line, remove the semicolon and 
+reevaluate the file. 
 ------------------------------------------------------------------------------------------
 The relevant works: 
 
