@@ -12,9 +12,9 @@ reevaluate the file.
 ------------------------------------------------------------------------------------------
 The relevant works: 
 
-1) observability_analysis.nb: 
+1) ObsAnalysis1.nb: 
 Inertial Yaw-Independent Velocity and Attitude Estimation for High Speed Quadrotor Flight
 
-2) observability_analysis_2.nb: 
-IMU-Based State Estimation for a Quadrotor UAV Leveraging Eulerian Dynamics (under review)
+2) ObsAnalysis2.nb: 
+Imu-Based Inertia Estimation For a Auadrotor Using Newton-Euler Dynamics
 ------------------------------------------------------------------------------------------
